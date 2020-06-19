@@ -1,0 +1,69 @@
+﻿
+<!DOCTYPE html>
+<html iang="zh-TW">
+<head>
+<title>心得</title>
+<meta charset="utf-8">
+<body>
+<h1>我在正修的美好時光</h1>
+<h2>同學們來自四面八方，有屏東 台東 金門，真的好友緣份才可以一起當同學。<p>
+
+大家即將分別，謝謝你們這2年的指教，雖然中間有喜怒哀樂，但這卻是難忘的回憶。<p>
+也謝謝老師們的用心教學，讓我從完全不會，學到很多以往沒再接觸的東西。<p>
+
+</h2><hr>
+
+<img src="039.jpg""width="500" height="400">
+<img src="040.jpg""width="500" height="400">
+<img src="041.jpg""width="500" height="400">
+<img src="042.jpg""width="500" height="400">
+<img src="043.jpg""width="500" height="400">
+<img src="044.jpg""width="500" height="400">
+<img src="045.jpg""width="500" height="400">
+<img src="051.jpg""width="500" height="400">
+<img src="046.jpg""width="500" height="400">
+<img src="047.jpg""width="500" height="400">
+<img src="048.jpg""width="500" height="400">
+<img src="050.jpg""width="500" height="400">
+<img src="058.jpg""width="500" height="400">
+<img src="057.jpg""width="500" height="400">
+<img src="052.jpg""width="500" height="400">
+<img src="053.jpg""width="500" height="400">
+<img src="054.jpg""width="500" height="400">
+<img src="055.jpg""width="500" height="400">
+<img src="056.jpg""width="500" height="400">
+<img src="059.jpg""width="500" height="400">
+<img src="060.jpg""width="500" height="400">
+<img src="061.jpg""width="500" height="400">
+<img src="066.jpg""width="500" height="400">
+<img src="065.jpg""width="500" height="400">
+<img src="068.jpg""width="500" height="400">
+<img src="070.jpg""width="500" height="400">
+<img src="064.jpg""width="500" height="400">
+<img src="063.jpg""width="500" height="400">
+<img src="071.jpg""width="500" height="400">
+<img src="067.jpg""width="500" height="400">
+<img src="072.jpg""width="500" height="400">
+<img src="073.jpg""width="500" height="400">
+<img src="035.jpg""width="500" height="400">
+<img src="036.jpg""width="500" height="400">
+<img src="037.jpg""width="500" height="400">
+<img src="038.jpg""width="500" height="400">
+<img src="075.jpg""width="500" height="400">
+<img src="074.jpg""width="500" height="400">
+<audio controls="controls" autoplay="autoplay" loop="loop">
+
+  <source src="005.mp3" type="audio/mp3">
+
+You browser does not support the audio element.
+</audio>
+
+<a href="index.html">專題</a>
+<a href="2nd.html">木工</a>
+<a href="3rd.html">染布</a>
+<a href="4th.html">玻璃</a>
+
+
+</body>
+</head>
+</html>

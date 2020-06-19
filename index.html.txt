@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html iang="zh-TW">
+<head>
+<title>專題</title>
+<meta charset="utf-8">
+<body>
+<h1>品牌名稱:木癒</h1>
+<h2>品牌原由:木:木頭的樣式，癒:有療癒效果<p>
+組員:戚居仁、白雅芬、林佳君<p>
+指導老師: 張錦郎<p>
+樣式:樹幹模樣陶盆，木頭與多肉植物的組合<p>
+用途:陶盆，觀賞種植多肉植物<p>
+材質:陶土<p>
+理念:我們選定幾種樹木，以不同品種的樹幹，不同長成外觀去呈現。<br>
+手工捏製放置約一星期後，雕刻仿樹幹樹皮紋路設計，底部留小洞排水用，再以紗紙磨細，送至柴窯燒制。<br>
+柴燒是一種古老的燒制方法，木材是燒窯最主要的燃料，經過千度高溫焠鍊，千變萬化的火色、窯變、自然落灰，<br>
+釉燒制過程留下的火痕，也為作品構成人工難以達成的美妙紋路。<br>
+陶器上渾然天成的色澤，木頭灰燼在窯燒的高溫下融熔而成的自然灰釉，因此，每件作品都是獨一無二的傑作。<br>
+而現代工藝的電燒，則氣泡大小均勻密集，氣窯電燒可以恆溫控制，因此燒出來顏色穩定。<br>
+陶盆的透氣性也非常適合種植多肉植物，陶盆的燒制產生特殊色澤，具美麗又獨特，結合可愛有療癒效果的多肉植物，<br>
+嬌小體型可隨意放置桌上觀賞，希望我們的窯燒工藝能帶給每個人居家或辦公一個健康、美感的生活。
+</h2><hr>
+<img src="001.jpg""width="500" height="400">
+<img src="002.jpg""width="500" height="400">
+<img src="003.jpg""width="500" height="400">
+<img src="004.jpg""width="500" height="400">
+<img src="005.jpg""width="500" height="400">
+<img src="006.jpg""width="500" height="400">
+<img src="007.jpg""width="500" height="400">
+<img src="008.jpg""width="500" height="400">
+
+<audio controls="controls" autoplay="autoplay" loop="loop">
+
+  <source src="001.mp3" type="audio/mp3">
+
+You browser does not support the audio element.
+</audio>
+
+
+
+
+<a href="2nd.html">木工</a>
+<a href="3rd.html">染布</a>
+<a href="4th.html">玻璃</a>
+<a href="5th.html">心得</a>
+
+</body>
+</head>
+</html>

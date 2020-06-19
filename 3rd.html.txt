@@ -1,0 +1,39 @@
+﻿
+<!DOCTYPE html>
+<html iang="zh-TW">
+<head>
+<title>染布</title>
+<meta charset="utf-8">
+<body>
+<h1>藍染</h1>
+<h2>藍染這種傳統的染布方式，對於一些追求天然、環保、健康風潮的人來說，除了自己喜歡之外，也非常樂於推廣。<p>
+自古以來，人們就懂得使用天然染料，從各個朝代豐富多樣的服飾，可以看到天然染料被廣泛地應用。在古代的中國，<br>
+甚至還有管理染色的官職，在周代叫作「染人」，又稱「染草之官」。<p>
+
+然而，大約一百多年前，由於化學合成染料的出現，快速地取代了天然染料的地位，導致傳統的染色工藝幾乎沉沒消失，<br>
+甚至少為現代人所知。直到合成染料低成本、大量生產對環境的污染已危及人類生存空間，人才開始反思。<p>
+
+漸漸地，人們不約而同的開始去尋找天然、乾淨的方式，來經營自己的生活。一股崇尚純淨、返璞歸真的風潮慢慢的鋪陳開來。<br>
+藍染這項華夏民族的祖先廣泛應用的技藝，以台灣而言，在失傳近百年後，也因緣際會的開始振興起來。<br>
+
+</h2><hr>
+<img src="027.jpg"width="600" height="500">
+<img src="028.jpg"width="600" height="500">
+<img src="030.jpg"width="600" height="500">
+<img src="031.jpg"width="600" height="500">
+<img src="032.jpg"width="600" height="500">
+<audio controls="controls" autoplay="autoplay" loop="loop">
+
+  <source src="003.mp3" type="audio/mp3">
+
+You browser does not support the audio element.
+</audio>
+
+<a href="index.html">專題</a>
+<a href="2nd.html">木工</a>
+<a href="4th.html">玻璃</a>
+<a href="5th.html">心得</a>
+
+</body>
+</head>
+</html>
